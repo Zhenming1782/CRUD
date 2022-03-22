@@ -1,0 +1,8 @@
+org\proyecto\Entity\Tasks.class
+org\proyecto\CustomApplication.class
+org\proyecto\Api\UserApi.class
+org\proyecto\Controller\Login.class
+META-INF\panache-archive.marker
+org\proyecto\Api\TasksApi.class
+org\proyecto\Apiapp.class
+org\proyecto\Entity\User.class
